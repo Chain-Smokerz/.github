@@ -1,3 +1,3 @@
 # CrysPay ☕
 
-#### We are the reason, why Satochi Nakamotu is still Anonymous 🗿
+#### We are the reason, why Satoshi Nakamotu is still Anonymous 🗿
