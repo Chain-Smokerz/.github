@@ -37,7 +37,7 @@ We are brewing CrysPay 😋, here's your tea ☕ by the time we release our vers
 Our Pillars (Team)
 | Harsh Soni | Sudipta Basak | Ugendar Kethavath | Arup Basak | Shuvro |
 |:---:|:---:|:---:|:---:|:---:|
-|![Harsh](https://github.com/user-attachments/assets/1f6c4a14-b6f5-492a-8231-b69ec8665dd2)  <br> Founder **@CrysPay** <br> 🥑 **@Router Protocol** | ![Sudipta](https://github.com/user-attachments/assets/d80b3993-46ec-4285-bb53-9bd776633759)  <br> Founder **@CrysPay** <br> M.Tech '24 IIT-Jammu <br> Intern **@Nethermind** |![Ugender K](https://github.com/user-attachments/assets/1829eb9a-5a2c-4812-8859-9d5a29ee03ed)  <br> Co-founder **@CrysPay** <br> Ph.D IISc <br> Protocol Consultant | ![Arup Basak](https://github.com/user-attachments/assets/490a2862-d65a-47fc-a8ae-7612058925f5)  <br> **Software Developer** | ![Shuvro](https://github.com/user-attachments/assets/f6a7090c-f4f6-4b98-8427-5181f397e71f)  <br> Product Manager **@CrysPay** |
+|![Harsh](https://github.com/user-attachments/assets/1f6c4a14-b6f5-492a-8231-b69ec8665dd2)  <br> Founder **@CrysPay** <br> 🥑 **@Router Protocol** | ![Sudipta](https://github.com/user-attachments/assets/d80b3993-46ec-4285-bb53-9bd776633759)  <br> Founder **@CrysPay** <br> M.Tech '24 IIT-Jammu <br> Intern **@Nethermind** |![Ugender K](https://github.com/user-attachments/assets/1829eb9a-5a2c-4812-8859-9d5a29ee03ed)  <br> Co-founder **@CrysPay** <br> Ph.D IISc <br> Protocol Consultant | ![Arup Basak](https://github.com/user-attachments/assets/490a2862-d65a-47fc-a8ae-7612058925f5)  <br> **Software Developer** | ![Shuvro](https://github.com/user-attachments/assets/f6a7090c-f4f6-4b98-8427-5181f397e71f)  <br> Head of BD **@CrysPay** |
 
 
 <!-- Images
